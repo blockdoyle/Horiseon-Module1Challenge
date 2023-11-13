@@ -13,7 +13,9 @@ Completed challenge 1 project.
 
 ## Overview
 
-This is the completed project for Challenge 1 in the UofT Coding bootcamp. The accpetance criteria ([seen here](#))<add link here> has been completed.
+This is the completed project for Challenge 1 in the UofT Coding bootcamp. The accpetance criteria ([seen here](https://github.com/blockdoyle/Horiseon-Module1Challenge/issues/3#issue-1990009010)) has been completed.
+
+Link to website: https://blockdoyle.github.io/Horiseon-Module1Challenge/
 
 ### Prerequisites
 
