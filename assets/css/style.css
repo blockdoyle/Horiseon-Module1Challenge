@@ -1,13 +1,19 @@
+/* 
+  Apply a universal box-sizing rule to include padding and borders in element sizes,
+  and reset default padding and margin for all elements.
+*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Set background colour for entire page */
 body {
     background-color: #d9dcd6;
 }
 
+/* Sets the padding, background color, font, and font color for the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +21,18 @@ body {
     color: #ffffff;
 }
 
+/* sets the display type and font size for h1 tags under the header. */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* changes the colour for the 'seo' in 'Horiseon' in the header h1 tag. */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* sets the padding, margin, float, font-family, and font-size for the header div */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +41,29 @@ body {
     font-size: 20px;
 }
 
+/* set the unordered list style to none */
 .header div ul {
     list-style-type: none;
 }
 
+/* sets list item display type and margin */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* sets the color and text decorations for anchor tags */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* sets the font size for paragraph tags */
 p {
     font-size: 16px;
 }
 
+/* sets the style for the main image on the website. */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +73,26 @@ p {
     background-position: center;
 }
 
+/* sets the float properties for the class */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* sets the float properties for the class */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* sets the styling for the content divider. */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* sets the styling for the benefits divider on the right side of webpage. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,22 +104,26 @@ p {
     background-color: #2589bd;
 }
 
+/* sets the default margins for benefits */
 .benefit-margins {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* sets the margins for h3 tags */
 .benefit-margins h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* sets the margins for img tags */
 .benefit-margins img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* sets the default styling for topic blocks */
 .topic-block {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,28 +133,18 @@ p {
     color: #ffffff;
 }
 
-.topic-block {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
+/* sets the styling for images in the topic-blocks */
 .topic-block img {
     max-height: 200px;
 }
 
-.topic-block img {
-    max-height: 200px;
-}
-
+/* sets the styling for h2 tags in the topic-blocks */
 .topic-block h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* sets the default styling for the footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -140,6 +152,7 @@ p {
     text-align: center;
 }
 
+/* sets the styling for h2 tags in the footer */
 .footer h2 {
     font-size: 20px;
 }
