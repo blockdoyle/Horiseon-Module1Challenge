@@ -1,61 +1,30 @@
-# Project Name
+# Horiseon - Module1Challenge
 
-Brief description or tagline for your project.
+Completed challenge 1 project.
 
 ## Table of Contents
 
-- [Project Name](#project-name)
+- [Horiseon - Module1Challenge](#horiseon---module1challenge)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
-  - [Features](#features)
-  - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
   - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
   - [Acknowledgements](#acknowledgements)
 
 ## Overview
 
-Provide a high-level overview of your project. What does it do? Why is it useful? You can include screenshots or diagrams here.
-
-## Features
-
-List the key features of your project. This can help users quickly understand what your project offers.
-
-- Feature 1
-- Feature 2
-- ...
-
-## Getting Started
-
-Provide instructions on how to get your project up and running on a user's local machine.
+This is the completed project for Challenge 1 in the UofT Coding bootcamp. The accpetance criteria ([seen here](#))<add link here> has been completed.
 
 ### Prerequisites
 
-List any software, tools, or dependencies that users need to have installed before they can use your project.
-
-### Installation
-
-Step-by-step instructions on how to install and set up your project.
+- Live Server extension for VSCode [(Link)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- HTTP Server of your choice. (e.g., [Apache](https://httpd.apache.org/))
 
 ## Usage
 
-Provide examples or a brief guide on how to use your project. Include code snippets or command-line examples.
-
-## Contributing
-
-Explain how others can contribute to your project. Include guidelines for submitting issues, feature requests, or pull requests.
-
-## License
-
-Specify the license under which your project is distributed. For example, MIT, Apache, etc.
+1. Clone the repository to your local machine.
+2. Open index.html in a HTTP server or Live Server.
 
 ## Acknowledgements
 
-Give credit to individuals or projects that inspired, helped, or contributed to your project.
-
----
-
-Feel free to adapt this template to suit the specific details of your project. Including clear and concise information in your README.md can greatly improve the user experience and encourage collaboration.
+Web files supplied by UofT Coding Bootcamp.
