@@ -26,5 +26,5 @@ This is the completed project for Challenge 1 in the UofT Coding bootcamp. The a
 2. Open index.html in a HTTP server or Live Server.
 
 ## Acknowledgements
-
+  
 Web files supplied by UofT Coding Bootcamp.
