@@ -27,7 +27,7 @@ Link to website: https://blockdoyle.github.io/Horiseon-Module1Challenge/
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Open index.html in a HTTP server or Live Server.
+2. Open index.html in a HTTP server or Live Server extension.
 
 ## Acknowledgements
   
