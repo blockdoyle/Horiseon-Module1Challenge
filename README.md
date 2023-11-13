@@ -15,6 +15,8 @@ Completed challenge 1 project.
 
 This is the completed project for Challenge 1 in the UofT Coding bootcamp. The accpetance criteria ([seen here](#))<add link here> has been completed.
 
+Link to website: https://blockdoyle.github.io/Horiseon-Module1Challenge/
+
 ### Prerequisites
 
 - Live Server extension for VSCode [(Link)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
