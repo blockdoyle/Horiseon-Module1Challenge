@@ -93,7 +93,7 @@ main {
 }
 
 /* sets the styling for the benefits divider on the right side of webpage. */
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -105,19 +105,19 @@ main {
 }
 
 /* sets the default margins for benefits */
-.benefit-margins {
+.aside-margins {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /* sets the margins for h3 tags */
-.benefit-margins h3 {
+.aside-margins h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /* sets the margins for img tags */
-.benefit-margins img {
+.aside-margins img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
